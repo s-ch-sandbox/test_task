@@ -1,0 +1,2 @@
+add_subdirectory(curves)
+add_subdirectory(demo_app)
